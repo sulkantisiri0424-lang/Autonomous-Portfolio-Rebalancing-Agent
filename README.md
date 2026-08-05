@@ -1,19 +1,20 @@
 # Autonomous Portfolio Rebalancing Agent
 
 ## Overview
-This project is an Agentic AI-based Autonomous Portfolio Rebalancing System.
+This project is an Agentic AI-based system that automatically monitors portfolio drift, analyzes risk, recommends portfolio rebalancing, and provides explanations for every recommendation.
 
-### Features
+## Features
 - Portfolio Drift Detection
+- Live Market Data
 - Risk Analysis
 - Automatic Rebalancing
 - Tax Optimization
-- Human Override
-- Audit Logs
+- Explanation Agent
 - Dashboard
+- SQLite Database
 - Backtesting
 
-### Technologies
+## Technologies Used
 - Python
 - FastAPI
 - SQLite
@@ -21,3 +22,5 @@ This project is an Agentic AI-based Autonomous Portfolio Rebalancing System.
 - CSS
 - JavaScript
 - Pandas
+- NumPy
+- yFinance
