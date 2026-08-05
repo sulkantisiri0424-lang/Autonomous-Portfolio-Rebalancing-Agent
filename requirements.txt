@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pandas
+numpy
+yfinance
+plotly
+jinja2
+sqlalchemy
+pydantic
+python-multipart
